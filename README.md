@@ -1,8 +1,8 @@
-# [Flexy React Material Admin Lite](http://demos.creative-tim.com/argon-dashboard-material-ui/?ref=readme-admui) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/argon-dashboard-material-ui&text=Check%20Argon%20Dashboard%20React%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#argondesign%20#react%20https://www.creative-tim.com/product/argon-dashboard-material-ui)
+# [Flexy React Material Admin Lite](#) [![Tweet](#)](#)
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-material-ui.svg)](https://github.com/creativetimofficial/argon-dashboard-material-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-material-ui.svg)](https://github.com/creativetimofficial/argon-dashboard-material-ui/issues?q=is%3Aissue+is%3Aclosed)
+![version](#) [![GitHub issues open](#)](#) [![GitHub issues closed](#)](#)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/447/original/argon-dashboard-material-ui.jpg)
+![Image]([https://s3.amazonaws.com/creativetim_bucket/products/447/original/argon-dashboard-material-ui.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--gvLZmaip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bo3g1flby4cbqvuvjquu.png))
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
